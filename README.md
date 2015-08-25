@@ -1,5 +1,5 @@
 # PowerShell-SystemTimeSynchronization
-Workflow to get, test and correct time synchronization on multiple Windows Server in parallel.
+PowerShell Module with workflows to get, test and correct time synchronization on multiple Windows Server in parallel.
 
 More information on:
 https://techstronghold.com/blogs/scripting/powershell-module-for-time-synchronization-powershell-workflows-to-get-status-start-invoke-test-monitor-and-repair-time-sync
